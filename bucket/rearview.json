@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Browse and search Claude Code, Codex, OpenCode, Kimi Code, Pi and OMP conversation history from the terminal, semantically or lexically.",
     "homepage": "https://github.com/astral303/rearview",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/astral303/rearview/releases/download/v0.2.0/rearview-windows-amd64.zip",
-            "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+            "url": "https://github.com/astral303/rearview/releases/download/v0.3.0/rearview-windows-amd64.zip",
+            "hash": "a66b779d8bb85677b3ce9c59de2535bdee2f960d099df0ec57869b5e50a852e9"
         }
     },
     "bin": "rearview.exe",
